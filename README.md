@@ -16,7 +16,7 @@ I am passionate about learning, mentoring people, and honing communication skill
 - Data Analytics & Big Data
 - Statistics & Experimentation
 - Product Development
-- Programming (Python & Aql) & Technical Tools (Git, Databricks, GCP, Tableau)
+- Programming (Python & Sql) & Technical Tools (Git, Databricks, GCP, Tableau)
 
 <!--
 ## My GitHub Stats
